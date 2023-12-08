@@ -2,7 +2,7 @@
 <!-- ![IMG_6451](https://user-images.githubusercontent.com/98308015/196576467-1189ec11-1731-418f-b094-e83aa1e3652a.jpg) -->
 
 
-#### CharlesMuvaka is a ✨ software engineer✨ interested in developing systems that will easen our day to day activites. I beleive technology can better our lives when we use it in the right way.
+#### CharlesMuvaka is a ✨ software engineer✨ interested in developing systems that will ease our day to day activites. I beleive technology can better our lives when we use it in the right way.
 
 
 ###### - 🔭 I’m currently working on graph algrorithms and data structures...
